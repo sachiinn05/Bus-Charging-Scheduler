@@ -1,0 +1,24 @@
+Take-home assignment — Bus Charging Scheduler
+Hi [Candidate name]
+Great speaking with you. As discussed, here's the take-home assignment for the next stage of our process. The full brief is attached as a PDF.
+A few quick highlights:
+
+Time: 2–3 hours of focused work
+Stack: Python + Streamlit (everything in one repo)
+Deadline: June 2nd(EOD)
+Submission: via this form — https://forms.gle/51xrFoUeGj9PD6KQA
+A few notes before you start:
+
+Use AI tools freely. We do too. You'll just need to defend every decision in the interview.
+If you find gaps in the spec, make sensible assumptions, document them, and move on — don't email us for clarifications on edge cases. We want to see how you handle ambiguity. (Genuine blockers like hosting or access issues are fine to flag.)
+Both your hosted app and your GitHub repo must be public.
+We will review the submission and if you submission looks good, we'll schedule a technical round where you'll walk us through your solution, run a fresh scenario live, and extend your design on the spot.
+Looking forward to seeing what you build.
+
+--
+
+Sagar Krishna
+
+Recruiter
+
+www.exponent.energy
